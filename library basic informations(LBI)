@@ -1,7 +1,7 @@
 #Introduction
 
-this is an app for people who use the library for reading books,borrowing and getting to access resources by having a bar code scanner whereby when they go to the library 
-they wont need to fill out forms or sign registers 
+this is an app for people who use the library for reading books,borrowing and getting to access resources by having a bar code 
+scanner whereby when they go to the library ,they wont need to fill out forms or sign registers 
 
 #How will it work?
 1.It will have a user menu:Create profile,Read a book,Rent and Collect,Code Scanner,Exit
@@ -9,7 +9,8 @@ they wont need to fill out forms or sign registers
 3.It will have books in different catalogues and different languages available in the library
 4.Members can also access resources through the app
 5.They can also  get acces to books that are available at their local library 
-6.Members can also pick a book and collect it later in the library using a particular reference provided for the collection.
+6.Members can also pick a book to rent and collect it later in the library using a particular reference provided by the app 
+for the collection.
 7.The code scanner will come in handy for members that want to use the library, this will work as their access card.
-8. They can also have acces to internet throught diffent social platforms 
+8. They can also have acces to internet throught diffent social platforms
 9.
